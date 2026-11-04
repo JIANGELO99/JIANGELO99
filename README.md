@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [File Permissions in Linux]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/JIANGELO99/LinuxFilePermisions/tree/main))
+  - [File Permissions in Linux](https://github.com/JIANGELO99/LinuxFilePermisions/tree/main)
   - [Applying Filters to SQL]()
   - [Updating a File through Python]()
 
