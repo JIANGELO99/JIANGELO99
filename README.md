@@ -1,7 +1,23 @@
-## Hi there 👋
+<h1>Hi, I'm Jiangelo!
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+  - [File Permissions in Linux](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Applying Filters to SQL]
+  - [Updating a File through Python]
+
+<h2> Certifications:</h2>
+
+  - [Google Cybersecurity Certificate](https://coursera.org/share/c11d22a103cf62ccef0b16f08bd7e313)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: (https://www.linkedin.com/in/jiangelo-gil-a1575b248/)
 
 <!--
-**JIANGELO99/JIANGELO99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
