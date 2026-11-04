@@ -1,10 +1,10 @@
-<h1>Hi, I'm Jiangelo!
+<h1>Hello, I'm Jiangelo!
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [File Permissions in Linux](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Applying Filters to SQL]
-  - [Updating a File through Python]
+  - [File Permissions in Linux]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/JIANGELO99/LinuxFilePermisions/tree/main))
+  - [Applying Filters to SQL]()
+  - [Updating a File through Python]()
 
 <h2> Certifications:</h2>
 
