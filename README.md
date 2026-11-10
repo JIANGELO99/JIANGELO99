@@ -1,4 +1,5 @@
-<h1>Hello, I'm Jiangelo!
+<h1>Hello, I'm Jiangelo!</h1>
+<h2>Entry-level cybersecurity enthusiast with a Google Cybersecurity Certificate. Currently building incident-response and log-analysis projects using Linux and Python
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
